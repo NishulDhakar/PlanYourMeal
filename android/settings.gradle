@@ -1,0 +1,18 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.PREFER_SETTINGS) // Use only settings repositories
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "FlutterBasics"
+include(":app")
