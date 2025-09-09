@@ -1,25 +1,11 @@
 # PlanYourMeal
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![GitHub stars](https://img.shields.io/github/stars/NishulDhakar/PlanYourMeal?style=social)
 
 **A Cross-Platform Meal Planning App**
 
 PlanYourMeal is a cross-platform meal planning application designed to help users organize their meals, create shopping lists, and maintain a balanced diet. The app simplifies meal planning and helps users achieve their nutritional goals.
-
----
-
-## Table of Contents
-
-* [Features](#features)
-* [Demo](#demo)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Technologies](#technologies)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
 
 ---
 
@@ -34,16 +20,7 @@ PlanYourMeal is a cross-platform meal planning application designed to help user
 
 ---
 
-## Demo
-
-![App Screenshot](your-image-link-here)
-*(Replace `your-image-link-here` with your actual image URL or path)*
-
-Optional: You can also add an animated GIF of the app in action:
-
-```markdown
-![App Demo](your-gif-link-here)
-```
+<img width="1082" height="508" alt="Screenshot 2025-09-10 at 12 45 03 AM" src="https://github.com/user-attachments/assets/e8596fc2-803f-48da-98ef-c3e3e7bbb76a" />
 
 ---
 
@@ -108,14 +85,5 @@ Please follow the code of conduct and maintain consistent code style.
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-* **GitHub:** [NishulDhakar](https://github.com/NishulDhakar)
-* **Email:** [your-email@example.com](mailto:your-email@example.com)
 
