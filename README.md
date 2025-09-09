@@ -66,8 +66,7 @@ flutter run
 
 * **Flutter**: Cross-platform mobile app development
 * **Dart**: Programming language for Flutter apps
-* **Provider / State Management**: For managing app state
-* **Firebase (Optional)**: Backend services (authentication, database)
+* **Firebase **: Backend services (authentication, database)
 
 ---
 
